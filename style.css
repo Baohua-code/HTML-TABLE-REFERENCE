@@ -1,0 +1,39 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    color:darkmagenta;
+    text-align: center;
+}
+ 
+h2 {
+    color:brown;
+    text-align: center;
+}
+
+table {
+    border: 5px solid orange;
+    width: 50%;
+    margin: 50px auto;
+}
+
+thead {
+    background-color: antiquewhite;
+}
+
+th, td {
+    border-right: 3px solid darkgreen;
+}
+
+td {
+    border-top: 3px solid darkgreen;
+}
+
+.code {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(226, 207, 218);
+    color:rgb(65, 8, 39);
+}
